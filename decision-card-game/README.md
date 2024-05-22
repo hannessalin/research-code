@@ -1,1 +1,16 @@
+## The Game of One More Idea
+This page is the official (and free) rules of the supportive decision-making card game called The Game of One More Idea. The game was constructed specifaclly for management teams but could (and should) be run in any team that make group-decisions.
 
+In the proposed game, each player is equipped with a deck of cards at the beginning of each team meeting where decisions are made. The deck includes the cards "Low Risk," "Medium Risk," "High Risk,", "I Agree," "I Disagree," a variety of "Let's Brainstorm" cards, "Coffee Break", "Parking Lot", "Final Decision," and "Idea" cards. When a decision is needed and the discussion starts, the gameplay starts. One player is chosen to be the *game master* (GM) (who has the highest mandate to make decisions). The game is divided into two phases: *discussion* and *decision*. The discussion phase is iterative and the decision phase is a game-ending step where the final decision is made. 
+
+*Discussion phase:* 
+- Each iteration is time-boxed into 10-minute blocks of discussion.
+- During each block the team discusses the matter and each player may play an *idea card* to present an idea for solution, a perspective, a question or other input.
+- After each 10-minute block the team performs a round-the-table assesment where each player plays one risk card each to indicate the individual perception of the risk involved in the current status of their decision making process (low, medium, high).
+
+After all risk cards are played, another round the table is run where everyone has the opportunity to play a *coffee break* card indicating the need for a pause, a *final decision* card indicating the need for making a decision now without having more blocks, or a *brainstorming* card indicating the need for at least one more round of discussion. The GM either decides to continue the discussion and thus accepting any brainstorming cards played or switch the game into the decision phase. If there is diversity in the perceived risk, i.e., many players have very different opinions on what risk level the matter has (from the first round the table), the GM can decide to run another block regardless of the outcome of the second round the table. Before the block ends, each player gets a token or point for every idea card they played during the block. At any time during the discussion, any player can play the *parking lot* card indicating that the current discussion has deviated and should be ''parked'' for later. Similarly, the *agree-* and *disagree* cards can be played at any time to indicate a player's opinion towards an idea, risk opinion or other situation.
+    
+*Decision phase:* 
+- Everyone count the number of tokens or points collected from the previous phase (when this phae starts, there should be at least one proposed decision in the team)
+- The GM makes the final decision and if that turns out to be a previously played idea from any of the players, that player receives one extra token.
+- The game ends and the player with the most number of tokens wins.
