@@ -1,5 +1,5 @@
 ## The Game of One More Idea
-This page contains the official (and free) rules of the supportive decision-making card game called The Game of One More Idea, developed by Hannes Salin. The game was constructed specifaclly for management teams but could (and should) be run in any team that make group-decisions.
+This page contains the official (and free) rules of the supportive decision-making card game called The Game of One More Idea, developed by Hannes Salin (hannessalin@gmail.com). The game was constructed specifaclly for management teams but could (and should) be run in any team that make group-decisions.
 
 In the proposed game, each player is equipped with a deck of cards at the beginning of each team meeting where decisions are made. The deck includes the cards "Low Risk," "Medium Risk," "High Risk,", "I Agree," "I Disagree," a variety of "Let's Brainstorm" cards, "Coffee Break", "Parking Lot", "Final Decision," and "Idea" cards. When a decision is needed and the discussion starts, the gameplay starts. One player is chosen to be the *game master* (GM) (who has the highest mandate to make decisions). The game is divided into two phases: *discussion* and *decision*. The discussion phase is iterative and the decision phase is a game-ending step where the final decision is made. 
 
